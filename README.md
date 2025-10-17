@@ -1,16 +1,48 @@
-## Hi there 👋
+**Quality Assurance Analyst | Aspiring Security Specialist | Developer**
 
-<!--
-**Buhuihanguoren/Buhuihanguoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Sofia, Bulgaria  
 
-Here are some ideas to get you started:
+## Tech Stack & Tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks:**  
+`Python` · `C++` · `C#` · `JavaScript` · `PHP` · `HTML/CSS`
+
+**Infrastructure & Cloud:**  
+`Vercel` · `Firebase` · `Linux` · `SQL/NoSQL` · `MongoDB`
+
+**Security & Networking:**  
+`CompTIA` · `MITRE ATT&CK` · `Cisco Packet Tracer` · `Google Dorking`
+
+**QA & Collaboration Tools:**  
+`Jira` · `Confluence` · `Visual Studio` · `Microsoft Office`
+
+---
+
+## Spotify Integration  
+This dynamic SVG card displays my currently playing Spotify track — powered by a Python Flask API, hosted on **Vercel**, with **Firebase** handling authentication and secure token storage.  
+
+> Built using: `Vercel` · `Firebase` · `Python` · `Flask` · `Spotify Web API` · `SVG`  
+
+## Currently Listening
+![Spotify](https://spotify-github-profile-ashen5523-three.vercel.app/view?uid=v2kyn2tq6dtav2q5yf4bf9fik)
+
+(https://github.com/Buhuihanguoren/spotify-github-profile)
+---
+
+## About Me  
+- Experienced in **Quality Assurance**, bug tracking, and test documentation  
+- Familiar with **software debugging** (CrashDumps, FullStacks) and **reporting workflows**  
+- Strong analytical mindset and adaptability from both **tech** and **industrial** backgrounds  
+- Eager to grow in **Cybersecurity** and **QA Automation**
+
+---
+
+## Certifications  
+- **CCNA: Enterprise Networking, Security, and Automation (Cisco)**  
+- **CCNA: Switching, Routing, and Wireless Essentials (Cisco)**  
+- **CCNA: Introduction to Networks (Cisco)**
+
+---
+
+**Relevant Coursework:**  
+`Networking` · `Cybersecurity` · `Arduino Systems` · `Software Optimization` · `Computational Modeling`
