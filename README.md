@@ -26,6 +26,8 @@ This dynamic SVG card displays my currently playing Spotify track — powered by
 ## Currently Listening
 ![Spotify](https://spotify-github-profile-ashen5523-three.vercel.app/view?uid=v2kyn2tq6dtav2q5yf4bf9fik)
 
+Temporarily Unavailable = Asleep
+
 (https://github.com/Buhuihanguoren/spotify-github-profile)
 ---
 
