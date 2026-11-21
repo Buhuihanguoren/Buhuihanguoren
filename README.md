@@ -82,6 +82,14 @@ Found a privacy bug in the new sharing API of Nextcloud 35 (CVSS 4.3, medium): a
 
 Relevant coursework: `Neural Networks`, `Data Mining`, `Statistical Data Processing`, `Data Processing with Python`, `Critical Data Protection and OSINT Methods`, `Data Structures and Algorithms`, `Software Engineering`, `Database Management Systems`, `Computer Networks and Communications`, `Information Protection and Security`, `Applied Statistics`
 
+## Currently listening
+
+![Spotify](https://spotify-github-profile-ashen5523-three.vercel.app/view?uid=v2kyn2tq6dtav2q5yf4bf9fik)
+
+"Temporarily Unavailable" means I'm asleep.
+
+The card comes from [my Spotify widget](https://github.com/Buhuihanguoren/spotify-github-profile): a Flask API on Vercel with Spotify OAuth and token refresh, Firebase for token storage and a 30-second cache. Based on kittinan's open-source spotify-github-profile.
+
 ## Contact
 
 Email: salokgit@gmail.com · [LinkedIn](https://www.linkedin.com/in/elvir-s-472a9027b)
