@@ -1,4 +1,4 @@
-# Hi, I'm Elvir Sirakov
+# Hi, I'm Elvir
 
 QA analyst with a Python and ML side, based in Bulgaria. I worked as a Software Quality Assurance Analyst at SEGA and have a Master's in Computer Technologies in Engineering. My thesis project, PredictBot, is a local LLM forecaster. I didn't train the model. I built the calibration and the evaluation around it.
 
@@ -45,8 +45,13 @@ The repo also lists published GPT-4 and Gemini scores. Those come from other dat
 
 I also worked on an automotive assembly line in 2021, building components to technical documentation and quality requirements.
 
+## Security research
+
+Found a privacy bug in the new sharing API of Nextcloud 35 (CVSS 4.3, medium): anyone holding one public share link could see who else the file was shared with. Reported through Nextcloud's HackerOne program and fixed in Nextcloud 35.0.1.
+
 ## Other projects
 
+- **[job-listing-pipeline](https://github.com/Buhuihanguoren/job-listing-pipeline)**: collects job listings from public job-board APIs, removes duplicates, filters them by region and by your own block lists, and ranks the rest. 159 offline tests, CI on Linux and Windows.
 - **[Lucky Slots](https://github.com/Buhuihanguoren/interactive-slot-game)**: slot machine in vanilla JavaScript and PixiJS. 5×4 reels at 60 fps, 100 generated paylines, weighted symbol odds and object pooling. Includes a symbol-analyzer page that counts the symbols the reels produce, and a demo video.
 - **[Treasure Vault](https://github.com/Buhuihanguoren/treasure-vault-game)**: vault-door puzzle in TypeScript with PIXI.js v8, GSAP and Vite. Generates a random 3-step combination and a new one after every wrong move.
 - **[Plane Spotter](https://github.com/Buhuihanguoren/Python-Script-Plane-Spotter)**: finds aircraft within a chosen radius using the OpenSky API, Haversine distance and latitude-corrected bounding boxes.
@@ -76,14 +81,6 @@ I also worked on an automotive assembly line in 2021, building components to tec
 - **Bachelor's, Computer Technologies in Engineering**, same university (2021–2025).
 
 Relevant coursework: `Neural Networks`, `Data Mining`, `Statistical Data Processing`, `Data Processing with Python`, `Critical Data Protection and OSINT Methods`, `Data Structures and Algorithms`, `Software Engineering`, `Database Management Systems`, `Computer Networks and Communications`, `Information Protection and Security`, `Applied Statistics`
-
-## Currently listening
-
-![Spotify](https://spotify-github-profile-ashen5523-three.vercel.app/view?uid=v2kyn2tq6dtav2q5yf4bf9fik)
-
-"Temporarily Unavailable" means I'm asleep.
-
-The card comes from [my Spotify widget](https://github.com/Buhuihanguoren/spotify-github-profile): a Flask API on Vercel with Spotify OAuth and token refresh, Firebase for token storage and a 30-second cache. Based on kittinan's open-source spotify-github-profile.
 
 ## Contact
 
